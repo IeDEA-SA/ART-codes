@@ -8,12 +8,12 @@ Use [this link](https://github.com/IeDEA-SA/IeDEA_ART/raw/main/data-raw/IeDEA_dr
 
 In order to get the data into R use: 
 
-> library(readr)
+> library(readr)  
 > IeDEA_druglist <- read_csv("https://raw.githubusercontent.com/IeDEA-SA/IeDEA_ART/main/data-raw/IeDEA_druglist.csv")
 
 In Stata:
 
-> import delimited "https://raw.githubusercontent.com/IeDEA-SA/IeDEA_ART/main/data-raw/IeDEA_druglist.csv"
+> import delimited "https://raw.githubusercontent.com/IeDEA-SA/IeDEA_ART/main/data-raw/IeDEA_druglist.csv", varnames(1) 
 
 Please [file an issue](https://github.com/IeDEA-SA/IeDEA_ART/issues/new/choose) if you see anything that could be improved. Alternatively please feel free to reach out to [the team](https://github.com/orgs/IeDEA-SA/people) with questions and comments.  
 
