@@ -1,0 +1,87 @@
+art_id,drug_description,arv_class,drug_orig,drug,drug_type
+J01EE01,Sulfamethoxazole and trimethoprim (Bactrim),AB,COT,COT,???
+J05A,ART unspecified,Other,XXX,XX1,X
+J05A-BEV,Beviramat,???,???,BVM,???
+J05AE,PI unspecified,PI,OPI,XX2,P
+J05AE01,"Saquinavir (gel, not specified)",PI,SQV,SQV,P
+J05AE01-SQH,Saquinavir hard gel (INVIRASE),PI,SQV,SQV,P
+J05AE01-SQS,Saquinavir soft gel (FORTOVASE),PI,SQV,SQV,P
+J05AE02,Indinavir (CRIXIVAN),PI,IDV,IDV,P
+J05AE03,Ritonavir (NORVIR),PI,RTV,RTV,P
+J05AE03-H,Ritonavir high dose (NORVIR),PI,RTV,RTV,P
+J05AE03-L,Ritonavir low dose (NORVIR),PI,RTV,RTV,P
+J05AE04,Nelfinavir (VIRACEPT),PI,NFV,NFV,P
+J05AE05,Amprenavir (AGENERASE),PI,AMP,AMP,P
+J05AE06,"Lopinavir / ritonavir (ABT-378/r, kaletra)",2PI,LPV RTV,LPV RTV,P
+J05AE07,"Fos-amprenavir (Telzir, Lexiva)",PI,FPV,FPV,P
+J05AE08,Atazanavir (Reyataz),PI,ATV,ATV,P
+J05AE09,Tipranavir (Aptivus),PI,TPV,TPV,P
+J05AE10,"Darunavir (TMC-114, Prezista)",PI,DRV,DRV,P
+J05AE-ATV,Atazanavir (ZRIVADA),PI,ATV,ATV,P
+J05AE-MOZ,Mozenavir (DMP-450),PI,???,???,P
+J05AE-TPR,Tipranavir,PI,TPV,TPV,P
+J05AF,NRTI unspecified,NRTI,XXX,XX3,R
+J05AF01,"Zidovudine (AZT, RETROVIR)",NRTI,AZT,AZT,R
+J05AF02,Didanosine (ddI) (VIDEX),NRTI,DDI,DDI,R
+J05AF03,Zalcitabine (ddC) (HIVID),NRTI,DDC,DDC,R
+J05AF04,Stavudine (d4T) (ZERIT),NRTI,D4T,D4T,R
+J05AF05,"Lamivudine (3TC, EPIVIR)",NRTI,3TC,3TC,R
+J05AF06,Abacavir (1592U89) (ZIAGEN),NRTI,ABC,ABC,R
+J05AF07,Tenofovir disoproxil,NRTI,TDF,TDF,R
+J05AF08,Adefovir (PREVEON),NRTI,???,ADV,???
+J05AF09,Emtricitabine,NRTI,FTC,FTC,R
+J05AF10,Entecavir,NRTI,ETV,ETV,R
+J05AF11,Telbivudine,NRTI,???,???,???
+J05AF13,Tenofovir alafenamide,NRTI,TAF,TAF,???
+J05AF-ALO,Alovudine,NRTI,???,???,???
+J05AF-AMD,Amdoxovir (DADP),NRTI,???,???,???
+J05AF-FOZ,Fozivudine tidoxi,NRTI,???,FZT,???
+J05AF-LDN,Lodenosine (trial drug),NRTI,???,???,???
+J05AF-RVT,Reverset,NRTI,???,???,???
+J05AG,NNRTI unspecified,NNRTI,???,XX4,???
+J05AG01,Nevirapine (VIRAMUN),NNRTI,NVP,NVP,N
+J05AG01-SD,Nevirapine (VIRAMUNE) single dose,NNRTI,NVP,NVP,N
+J05AG02,Delavirdine (U-90152) (RESCRIPTOR),NNRTI,DLV,DLV,N
+J05AG03,"Efavirenz (DMP-266) (STOCRIN, SUSTIVA)",NNRTI,EFV,EFV,N
+J05AG04,Etravirine (TMC 125). Former code: J05AG-ETV,NNRTI,ETV,ETV,N
+J05AG05,Rilpivirine (TMC-278). Former code: J05AG-RPV,NNRTI,ETV,RPV,N
+J05AG05-RPV,Rilpivirine (TMC-278),NNRTI,ETV,RPV,N
+J05AG-CPV,Capravirine,NNRTI,???,???,???
+J05AG-DPC083,DPC 083,NNRTI,???,???,???
+J05AG-DPC961,DPC 961,NNRTI,???,???,???
+J05AG-EMV,Emivirine (MKC442),NNRTI,EMV,EMV,???
+J05AG-ETV,Etravirine (TMC 125),NNRTI,ETV,ETV,N
+J05AG-LOV,Loviride,NNRTI,LOV,LOV,N
+J05AJ03,Dolutegravir,II,DTG,DTG,II
+J05A-PBT,Participant in Blinded Trial,Other,XXX,XX1,X
+J05AR,ART unspecified,Other,XXX,XXX,X
+J05AR01,Combivir (Zidovudine/Lamivudine),2NRTIs,3TC AZT,3TC AZT,R
+J05AR02,Kivexa (Lamivudine/Abacavir),2NRTIs,3TC ABC,3TC ABC,R
+J05AR03,Truvada (Tenofovir/Emtricabine),2NRTIs,FTC TDF,FTC TDF,R
+J05AR04,Trizivir (Zidovudine/Lamivudine/Abacavir),3NRTIs,AZT 3TC ABC,3TC ABC AZT,???
+J05AR05,Douvir-N (Zidovudine/Lamivudine/Nevirapine),2NRTIs 1NNRTI,3TC AZT NVP,3TC AZT NVP,R
+J05AR06,Atripla (Emtricitabine/Tenofovir/Efavirenz),2NRTIs 1NNRTI,EFV FTC TDF,EFV FTC TDF,R
+J05AR07,Triomune (Stavudine/Lamivudine/Nevirapine),2NRTIs 1NNRTI,D4T AZT NVP,AZT D4T NVP,R
+J05AR08,Eviplera/Complera (Emtricitabine/Tenofovir/Rilpivirine),2NRTIs 1NNRTI,FTC TDF ETV,ETV FTC TDF,R
+J05AR09,Stribild (Emtricitabine/Tenofovir/Elvitegravir/Cobicistat),2NRTIs 1EI,EFV TDF EVG,EFV EVG TDF,R
+J05AR10,Kaletra/Aluvia (Lopinavir/Ritonavir),2PI,LPV RTV,LPV RTV,P
+J05AR11,"Lamivudine, tenofovir disoproxil and efavirenz",2NRTIs 1NNRTI,3TC TDF EFV,3TC EFV TDF,R
+J05AR12,Lamivudine and tenofovir disoproxil,2NRTIs,3TC TDF,3TC TDF,R
+J05AR13,"Lamivudine, abacavir and dolutegravir",2NRTIs 1II,3TC ABC DTG,3TC ABC DTG,R
+J05AR14,Darunavir and cobicistat,PI,DRV,DRV,P
+J05AR17,Emtricitabine and tenofovir alafenamide,2NRTIs,???,FTC TAF,???
+J05AR21,Dolutegravir and rilpivirine,1NNRTI 1II,DTG ETV,DTG RPV,???
+J05AR23,Atazanavir and ritonavir,2PI,ATV RTV,ATV RTV,???
+J05AR25,Lamivudine and dolutegravir,1NRTI 1II,3TC DTG,3TC DTG,???
+J05AR27,"Lamivudine, tenofovir disoproxil and dolutegravir",2NRTIs 1II,3TC TDF DTG,3TC DTG TDF,???
+J05AR30,Tenofir and emtricitabine,2NRTIs,FTC TDF,FTC TDF,???
+J05AX07,"Enfurvirtide (Fuzeon, T-20)",EI,ENF,ENF,EI
+J05AX08,Raltegravir (Merck),II,RGV,RGV,II
+J05AX09,Maraviroc (Pfizer),EI,MVC,MVC,EI
+J05AX11,Elvitegravir (Gilead). Former code: J05AX-EVG,II,EVG,EVG,II
+J05AX12,Dolutegravir,II,DTG,DTG,II
+J05AX-CAB,Cabotegravir (GSK-744),II,CBG,CBG,II
+J05AX-EVG,Elvitegravir (Gilead),II,EVG,EVG,II
+J05AX-VIC,Vicriviroc (Schering),EI,VCV,VCV,EI
+L01XX05,Hydroxyurea/Hydroxycarbamid (Litalir),HYD,HYD,HYD,???
+V03AX03,Cobicistat,BOOSTER,COBI,COBI,???
