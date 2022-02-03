@@ -54,7 +54,7 @@ J05AG-ETV,Etravirine (TMC 125),NNRTI,ETV,ETV,N
 J05AG-LOV,Loviride,NNRTI,LOV,LOV,N
 J05AJ03,Dolutegravir,II,DTG,DTG,II
 J05A-PBT,Participant in Blinded Trial,Other,XXX,XX1,X
-J05AR,ART unspecified,Other,XXX,XXX,X
+J05AR,ART unspecified,Other,XXX,XX1,X
 J05AR01,Combivir (Zidovudine/Lamivudine),2NRTIs,3TC AZT,3TC AZT,R
 J05AR02,Kivexa (Lamivudine/Abacavir),2NRTIs,3TC ABC,3TC ABC,R
 J05AR03,Truvada (Tenofovir/Emtricabine),2NRTIs,FTC TDF,FTC TDF,R
