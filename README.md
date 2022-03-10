@@ -1,10 +1,12 @@
 # IeDEA_ART
 
-Working on IeDEA medication codes to identify & describe ARTs in `tblART` data.  
+Set of IeDEA medication codes to identify & describe ARTs in `tblART` data.  
 
 Folder [data-raw](https://github.com/IeDEA-SA/IeDEA_ART/tree/main/data-raw) contains the files with codes in `csv` and `xlsx` format.  
 
-Use [this link](https://github.com/IeDEA-SA/IeDEA_ART/raw/main/data-raw/IeDEA_druglist.xlsx) to download data.  
+Use [this link](https://github.com/IeDEA-SA/IeDEA_ART/blob/main/data-raw/IeDEA_druglist.csv) to preview the data in `csv` format.  
+
+Use [this link](https://github.com/IeDEA-SA/IeDEA_ART/raw/main/data-raw/IeDEA_druglist.xlsx) to download the data in `xlsx` format.  
 
 In order to get the data into R use: 
 
