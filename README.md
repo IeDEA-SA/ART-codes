@@ -1,4 +1,4 @@
-# IeDEA_ART
+# ART-codes
 
 Set of IeDEA medication codes to identify & describe ARTs in `tblART` data.  
 
