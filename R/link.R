@@ -1,7 +1,7 @@
 library(tidyverse)
 library(fst)
 
-druglist = readr::read_csv("https://raw.githubusercontent.com/IeDEA-SA/ART-codes/main/data-raw/IeDEA_druglist.csv") %>% 
+druglist = readr::read_csv("data-raw/IeDEA_druglist.csv") %>% 
   select(art_id, drug, arv_class) %>% 
   mutate(drug = str_trim(drug))
 
@@ -18,7 +18,7 @@ table(missings$art_id)
 druglist %>% 
   filter(art_id == "J05AJ01")
 
-druglist %>% 
+tblART %>% 
   filter(art_id == "J05AJ01")
 
 # in lookup table without existing in database
