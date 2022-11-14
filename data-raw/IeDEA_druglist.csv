@@ -52,6 +52,8 @@ J05AG-DPC961,DPC 961,NNRTI,???,???,???
 J05AG-EMV,Emivirine (MKC442),NNRTI,EMV,EMV,???
 J05AG-ETV,Etravirine (TMC 125),NNRTI,ETV,ETV,N
 J05AG-LOV,Loviride,NNRTI,LOV,LOV,N
+J05AJ01 ,Raltegravir,II,RAL,RAL,II
+J05AJ02,Elvitegravir,II,EVG,EVG,II
 J05AJ03,Dolutegravir,II,DTG,DTG,II
 J05A-PBT,Participant in Blinded Trial,Other,XXX,XX1,X
 J05AR,ART unspecified,Other,XXX,XX1,X
